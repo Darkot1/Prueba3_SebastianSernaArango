@@ -1,0 +1,106 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "flightNumber": "AB123",
+      "origin": "City A",
+      "destination": "City B",
+      "capacity": 100,
+      "reservedSeats": 50,
+      "image": "assets/Viajar-en-avion.jpg"
+    },
+    {
+      "id": "2",
+      "flightNumber": "AB124",
+      "origin": "City A",
+      "destination": "City C",
+      "capacity": 100,
+      "reservedSeats": 50,
+      "image": "assets/9fc1e655341e521c81133aa3f538fcb8.jpg"
+    },
+    {
+      "id": "3",
+      "flightNumber": "CD345",
+      "origin": "City B",
+      "destination": "City D",
+      "capacity": 150,
+      "reservedSeats": 75,
+      "image": "assets/9fc1e655341e521c81133aa3f538fcb8.jpg"
+    },
+    {
+      "id": "4",
+      "flightNumber": "EF567",
+      "origin": "City C",
+      "destination": "City E",
+      "capacity": 200,
+      "reservedSeats": 120,
+      "image": "assets/Viajar-en-avion.jpg"
+    },
+    {
+      "id": "5",
+      "flightNumber": "GH789",
+      "origin": "City D",
+      "destination": "City F",
+      "capacity": 250,
+      "reservedSeats": 150,
+      "image": "assets/Viajar-en-avion.jpg"
+    },
+    {
+      "id": "6",
+      "flightNumber": "IJ901",
+      "origin": "City E",
+      "destination": "City G",
+      "capacity": 300,
+      "reservedSeats": 180,
+      "image": "assets/Viajar-en-avion.jpg"
+    },
+    {
+      "id": "7",
+      "flightNumber": "KL123",
+      "origin": "City F",
+      "destination": "City A",
+      "capacity": 350,
+      "reservedSeats": 200,
+      "image": "assets/Viajar-en-avion.jpg"
+    }
+  ],
+
+
+
+  
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2fee",
+      "name": "angela",
+      "email": "angela@gmail.com",
+      "dob": "2024-06-07",
+      "password": "ang123",
+      "role": "visitor"
+    },
+    {
+      "id": "0de2",
+      "name": "sebas",
+      "email": "sebas@gmail.com",
+      "dob": "1998-12-06",
+      "password": "12345",
+      "role": "visitor"
+    }
+
+  ],
+
+
+
+  "reservations": [
+    {
+      "id": "8799",
+      "seatings": "2"
+    }
+  ]
+}
